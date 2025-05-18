@@ -1,7 +1,7 @@
 ![joeldavid-dev](https://github.com/user-attachments/assets/4e1f383e-8877-4915-a881-c9ca3717aacf)
 
 <h1 align="center">Hi 👋, I'm Joel David</h1>
-<h3 align="center">Computer engineering student. Here, I share some school projects and my progress in learning web development, Electron, and Flutter!</h3>
+<h3 align="center">Computer engineering student from Mexico. Here, I share some school projects and my progress in learning web development, Electron, and Flutter!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeldavid-dev&label=Profile%20views&color=0e75b6&style=flat" alt="joeldavid-dev" /> </p>
 
