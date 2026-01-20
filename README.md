@@ -21,7 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeldavid-dev&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="joeldavid-dev"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeldavid-dev&show_icons=true&locale=en&theme=gruvbox" alt="joeldavid-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeldavid-dev&theme=gruvbox" alt="joeldavid-dev" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeldavid-dev&theme=gruvbox" alt="joeldavid-dev" /></a> </p>
