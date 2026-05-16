@@ -1,4 +1,4 @@
-![joeldavid-dev](https://github.com/user-attachments/assets/4e1f383e-8877-4915-a881-c9ca3717aacf)
+![joeldavid-dev](https://github.com/user-attachments/assets/2d6eb4d2-2a89-461d-8986-7c5d9456c496)
 
 <h1 align="center">Hi 👋, I'm Joel David</h1>
 <h3 align="center">Computer engineering student from Mexico. Here, I share some school projects and my progress in learning web development, Electron, and Flutter!</h3>
